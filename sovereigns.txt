@@ -1,3 +1,26 @@
+Bits:
+
+Stuff       - Obstacle
+Literal     - Bond
+Figurative  - Affliction
+Things      - Privation
+Distinction - ???
+
+The Is        - Affliction, Bond, Privation, Obstacle, ???
+The Beyond    - Bond, Privation, Obstacle, ???
+The Bleakness - Privation, Obstacle, ???
+The Not       - Obstacle, ???
+The Outside   - ???
+
+Powers of The Is are Afflictions plus one of Bond (Bondholder), Privation (Ritualist), Obstacle (Knight), ??? (Chooser)
+Powers of The Beyond are Bond plus one of Privation (The Vile Things), Obstacle (Riders?), ??? (Kings of the Beyond)
+Powers of The Bleakness are Privation plus one of Obstacle, ???
+Powers of The Not are Obstacle, plus ??? ()
+Powers of The Outside are unknowable
+
+---
+
+
 All sovereigns are fundamentally an Affliction, Figuratively a chunk of reality walking around.
 
 But they also have a primary trait of the remaining four which affects many things.
@@ -19,3 +42,5 @@ This can act in a few ways:
 The Literal Sovereign can be a Lord with a Stuff Sovereign as a Knight; the Literal Sovereign can be a mass of Serfs with a Stuff Sovereign as a smaller mass of Knights.
 
 ---
+
+Summoning from Beyond is a Distinction; it is legal to summon anything except a Power. If you walk too far along this path you will become a King of the Beyond when you die.
