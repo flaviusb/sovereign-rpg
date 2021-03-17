@@ -13,7 +13,7 @@ The Not       - Obstacle, ???
 The Outside   - ???
 
 Powers of The Is are Afflictions plus one of Bond (Bondholder), Privation (Ritualist), Obstacle (Knight), ??? (Chooser)
-Powers of The Beyond are Bond plus one of Privation (The Vile Things), Obstacle (Riders?), ??? (Kings of the Beyond)
+Powers of The Beyond are Bond plus one of Privation (The Vile Things), Obstacle (Riders? - Stuff is very cheap for them), ??? (Kings of the Beyond)
 Powers of The Bleakness are Privation plus one of Obstacle, ???
 Powers of The Not are Obstacle, plus ??? ()
 Powers of The Outside are unknowable
@@ -26,12 +26,21 @@ All sovereigns are fundamentally an Affliction, Figuratively a chunk of reality 
 But they also have a primary trait of the remaining four which affects many things.
 
 Stuff Sovereigns are Sovereigns of Action. They have fast miracles, like a surge of miraculous power, and they operate on immediate timescales.
+- Stuff - shatterpoint
+- Literal - Mundanity?
+- Figurative - Miraculous overflow
+- Things - Posession
+- Distinction - ???
 
 Literal Sovereigns are Sovereign Bondholders. Their miracles are like reality trying to prove something true. Their miracles are slow, but almost impossible to resist head on, a shepard tone of power, and they operate on seasonal timescales.
+- raising the banners
+- Things - Infeudation
 
 Thing Sovereigns are Sovereign Presents. Their miracles are like a surprise birthday party where you get a present, a box with a mystery inside, which could be anything from a dollar store gag gift to an increadibly personal one of a kind thing that you could not have imagined...
+- Things - Invocation
 
 Distinction Sovereigns are exceptions and VIPs. Their miracles are like noticing something...
+- Things - The Choosing/The Calling
 
 ---
 
@@ -46,3 +55,7 @@ The Literal Sovereign can be a Lord with a Stuff Sovereign as a Knight; the Lite
 Summoning from Beyond is a Distinction; it is legal to summon anything except a Power. If you walk too far along this path you will become a King of the Beyond when you die.
 
 Distinctions can have a Kantian logic-within-a-word ie a priori analytic (maybe a priori synthetic???) decomposition, but nothing further.
+
+---
+
+
